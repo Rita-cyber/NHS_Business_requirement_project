@@ -22,7 +22,7 @@ Project Challenges:1.Avoid Extraction of Duplicate record 2.Efficient Incremen
 
 <img width="940" alt="image" src="https://github.com/user-attachments/assets/310062bc-e980-4618-b46b-95ab67802117">
 
-##Logic App Settings
+## Azure Logic App Settings
 
 Click on use sample payload to generate schema and paste the below json in it
 
@@ -33,7 +33,7 @@ Click on use sample payload to generate schema and paste the below json in it
 
 <img width="476" alt="image" src="https://github.com/user-attachments/assets/ce75e2a0-caae-49df-be27-4bc408a6be0c">
 
-Error Handling Setting
+## Error Handling Setting
 
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/f938d8a3-f40d-49e9-9367-70032798bbef">
 
