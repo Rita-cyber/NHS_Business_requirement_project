@@ -16,11 +16,28 @@ In pursuit of this mission, the Hospital recognizes the need to adopt cutting-ed
 
 ![image](https://github.com/user-attachments/assets/416a09b8-9677-4e17-a34b-1caad72443fa)
 
-Data Solution(ETL Process):- Ingest data frequently from on-prem sql database to  azure sql database.- Transform data into the star schema model for seamless extraction of business reports.- Load data into production Datawarehouse for analysis and visualization.![image](https://github.com/user-attachments/assets/b267e8ba-72f7-4342-b93f-32d4e207b9c3)
+Data Solution(ETL Process):- Ingest data frequently from on-prem sql database to  azure sql database.- Transform data into the star schema model for seamless extraction of business reports.- Load data into production Datawarehouse for analysis and visualization.
 
-Project Challenges:1.Avoid Extraction of Duplicate record 2.Efficient Incremental data process3.Different schemas4.Different keys![image](https://github.com/user-attachments/assets/de4aa87f-feee-41a4-9e3f-cb0997c2ba69)
+Project Challenges:1.Avoid Extraction of Duplicate record 2.Efficient Incremental data process3.Different schemas4.Different keys
 
 <img width="940" alt="image" src="https://github.com/user-attachments/assets/310062bc-e980-4618-b46b-95ab67802117">
 
+##Logic App Settings
 
-<img width="940" alt="image" src="https://github.com/user-attachments/assets/dee21f19-b715-4641-93c6-8f5210738cea">
+Click on use sample payload to generate schema and paste the below json in it
+
+{"pipelineName": "",
+  "RunId":"",
+  "ErrorMessage" :""
+    }
+
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/ce75e2a0-caae-49df-be27-4bc408a6be0c">
+
+Error Handling Setting
+
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/f938d8a3-f40d-49e9-9367-70032798bbef">
+
+
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/bfb81d87-31a9-42fd-8a76-499db64e7d2c">
+
+
