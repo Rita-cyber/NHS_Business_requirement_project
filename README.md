@@ -1,4 +1,4 @@
-# NHS_Business_requirement_project_School Project
+# Hospital_Business_requirement_project_School Project
 
 AnyHospital, a leading healthcare institution, is dedicated to thecontinual enhancement of patient care through innovative approaches.Acknowledging the transformative potential of data-driven insights, the hospital has embarked on a strategic initiative to harness the power of its extensive medical records. The Hospital plans to leverage cloud technologies to propel healthcare research, with a primary focus on disease prediction, prevention, and better patient care/experience.Clinicians, IT personnel, management, and patients are the stakeholders
 
